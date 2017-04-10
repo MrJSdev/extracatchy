@@ -1,5 +1,5 @@
 # Welcome to Extra Catchy Blog
-It is the blog posts page of [Link](http://extracatchy 
+It is the blog posts page of [Extra Catchy](http://extracatchy)
 
 ### How To Hide Any Files Inside Image & How to Open It?
 Do you want to hide the files or video, zip, rar, mp3 or anything behind of images that know one can think that the image contains some files? then you came to the right place…. [Read More..]
