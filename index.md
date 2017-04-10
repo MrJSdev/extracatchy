@@ -4,8 +4,9 @@ It is the blog posts page of [Extra Catchy](http://extracatchy)
 ### [How To Hide Any Files Inside Image & How to Open It?](http://extracatchy.net/hide-any-file-inside-an-image-and-open-it/)
 Do you want to hide the files or video, zip, rar, mp3 or anything behind of images that know one can think that the image contains some files? then you came to the right place…. [Read More..]
 
-![Post Image](http://extracatchy.net/wp-content/uploads/2017/04/listen-whatsapp-voice-message-secretly-in-public.png)
+
 ### [How to Listen WhatsApp Voice Message Secretly in Public](http://extracatchy.net/listen-whatsapp-voice-message-public/)
+![Post Image](http://extracatchy.net/wp-content/uploads/2017/04/listen-whatsapp-voice-message-secretly-in-public.png)
 Many times we get a WhatsApp voice message and we are in a public place, now voice messages being personal are not meant to be played in public considering you don’t know what it actually…
 
 You can use the [editor on GitHub](https://github.com/hunkriyaz/extracatchy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
