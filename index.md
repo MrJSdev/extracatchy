@@ -1,5 +1,5 @@
-# Welcome to Extra Catchy Blog
-It is the blog posts page of [Extra Catchy](http://extracatchy)
+# Welcome to Extra Catchy GitHub Blog
+It is the blog posts page of [Extra Catchy](http://extracatchy.net)
 
 ### [How To Hide Any Files Inside Image & How to Open It?](http://extracatchy.net/hide-any-file-inside-an-image-and-open-it/)
 Do you want to hide the files or video, zip, rar, mp3 or anything behind of images that know one can think that the image contains some files? then you came to the right place…. [Read More..]
@@ -32,6 +32,33 @@ Do you want to learn how to give compliments to your close friend, family member
 
 ### [How to Find a MAC address in Windows, Mac & Linux](http://extracatchy.net/how-to-find-a-mac-address/)
 Do you want to know what’s your MAC Address (Media Access Control) of your Windows PC, Mac, or Linux then you came at the right place. Here we’ve posted the guide that will help you… [Read More..]
+
+### [How to Create/Make a Free WiFi Hotspot on Windows 7 & 8](http://extracatchy.net/create-wifi-hotspot-on-windows/)
+
+### [How to Check if a String Contains a Specific Word in PHP?](http://extracatchy.net/check-if-string-contains-specific-word-in-php/)
+
+### [How to check if Array Contains a Specific Word in PHP](http://extracatchy.net/check-if-array-contains-a-specific-word-in-php/)
+
+### [How To Protect Your Eyesight From Computer Screen? 20-20-20](http://extracatchy.net/protect-your-eyesight-from-computer-screen/)
+
+### [Lenovo A700 ROM – Androium VUI Based on Latest Stock S308 ROW](http://extracatchy.net/lenovo-a700-androium-vui-rom/)
+
+### [Guide: How to Get Browser Information In PHP](http://extracatchy.net/get-browser-information-php/)
+
+### [Guide: How to Convert an Integer to a String in PHP](http://extracatchy.net/convert-integer-to-string-php/)
+
+### [How to convert Amount in Digits or Numbers to Words using PHP?](http://extracatchy.net/convert-amount-numbers-to-words-php/)
+Do you want to convert the amount number or any number of words such as 125 will be converted to “One Hundred Five”? Then you came on the right planet. We’ve posted here the simple
+
+### [WordPress Custom & Stylish Search Form With Bootstrap CSS](http://extracatchy.net/wordpress-search-form-bootstrap/)
+Do you guys want the attractive search bar in your WordPress theme with styling Bootstrap and applying search icon with FontAwesome icon then you came at right place. Here we’ve posted the full code of
+
+### [How to Fix Still Waiting for Root Device in Hackintosh](http://extracatchy.net/fix-still-waiting-for-root-device/)
+Do you want to fix the still waiting for root device error that is showing on your Hackintosh PC after the successful installation? Then you came to the right planet.
+
+### [How to Check Your CPU’s Speed in Mac OS X](http://extracatchy.net/check-your-cpus-speed-macos/)
+Do you want to check your CPUs speed and Want to know how much fastest your CPU and how fast your macOS is? Then you landed on the right planet. Here we have posted the
+
 
 You can use the [editor on GitHub](https://github.com/hunkriyaz/extracatchy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
