@@ -59,39 +59,33 @@ Do you want to fix the still waiting for root device error that is showing on yo
 ### [How to Check Your CPU’s Speed in Mac OS X](http://extracatchy.net/check-your-cpus-speed-macos/)
 Do you want to check your CPUs speed and Want to know how much fastest your CPU and how fast your macOS is? Then you landed on the right planet. Here we have posted the
 
+### [How to Add a Revolution Slider without using a Shortcode or Widget](http://extracatchy.net/add-a-revolution-slider-without-using-a-shortcode-or-widget/)
+Do you guys want to add revolution slider in your WordPress theme’s page from the backend without using shortcode or widget? Then you land at the right guide planet.
 
-You can use the [editor on GitHub](https://github.com/hunkriyaz/extracatchy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### [How to Split a Comma Delimited String into an Array in PHP?](http://extracatchy.net/split-comma-delimited-string-into-array-php/)
+Do you want to enter boot flags or Edit boot Flags while booting Clover for testing purpose. Then you land on the right planet. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [All You Need to Know About Open-Ended and Closed-Ended Questions](http://extracatchy.net/open-ended-questions-and-closed-ended-questions/)
+Do you know that open-ended and close-ended questions are the most important communicating skills to build rapport and connect with someone deeply? That’s why we decided to share with you this amazing communication skills with
 
-### Markdown
+### [Brain Pro Tips: How to Easily Remember Any Item List](http://extracatchy.net/how-to-easily-remember-any-item-list/)
+Remembering things or words, items list is really hard task to our brain sometimes if we don’t try to remember them by the brain secret tips.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Lenovo A7000 Custom VibeUI Lite v3.5 ROM](http://extracatchy.net/lenovo-a7000-custom-vibeui-lite-rom/)
+Do you guys want the latest version of VibeUI Lite v3.5 installed in your smart phone and get the benefits of VibeUI interface?
 
-```markdown
-Syntax highlighted code block
+### [Guide: How to Pause, Assess the Situation and Create Solutions](http://extracatchy.net/how-to-pause-assess-the-situation-and-create-solutions/)
+Do you guys want to control anger, frustration, handle the difficult situation, make the great discussion, and have full access to the situation of your life?
 
-# Header 1
-## Header 2
-### Header 3
+### [What are Some Lessons That Life Teaches to Most Peoples?](http://extracatchy.net/lessons-that-life-teaches-to-most-peoples/)
+Hey guys do you want to know what are the some lessons that life teaches most of the people’s specially youth? 
 
-- Bulleted
-- List
+### [How to Retrieve the Slug of Current Page in WordPress?](http://extracatchy.net/retrieve-the-slug-of-current-page-wordpress/)
+Most of the time we want to retrieve the slug of the current WordPress page outside the loop for applying it on page CSS if the query
 
-1. Numbered
-2. List
+### [How to Watch YouTube Videos at a Higher Volume – VLC Media Player](http://extracatchy.net/watch-youtube-videos-at-a-higher-volume/)
+Do you want to watch the youtube video at a higher volume on your PC or Mac then you came at the right place?
 
-**Bold** and _Italic_ and `Code` text
+### [USB 3.0 Explained – Everything You Need to Know About 3.0 Port](http://extracatchy.net/usb-3-0-explained/)
+Do you guys want to know about the USB 3.0 what is it, what features it has, what advantages of USB 3.0 vs USB 2.0 and how can we know which port is USB 3.0
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hunkriyaz/extracatchy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
