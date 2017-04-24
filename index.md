@@ -89,3 +89,64 @@ Do you want to watch the youtube video at a higher volume on your PC or Mac then
 ### [USB 3.0 Explained – Everything You Need to Know About 3.0 Port](http://extracatchy.net/usb-3-0-explained/)
 Do you guys want to know about the USB 3.0 what is it, what features it has, what advantages of USB 3.0 vs USB 2.0 and how can we know which port is USB 3.0
 
+### [How to convert Amount in Digits or Numbers to Words using PHP?](http://extracatchy.net/convert-amount-numbers-to-words-php/)
+Do you want to convert the amount number or any number of words such as 125 will be converted to “One Hundred Five”? Then you came on the right planet. We’ve posted here the simple
+
+### [WordPress Custom & Stylish Search Form With Bootstrap CSS](http://extracatchy.net/wordpress-search-form-bootstrap/)
+Do you guys want the attractive search bar in your WordPress theme with styling Bootstrap and applying search icon with FontAwesome icon then you came at right place. Here we’ve posted the full code of
+
+### [How to Fix Still Waiting for Root Device in Hackintosh](http://extracatchy.net/fix-still-waiting-for-root-device/)
+Do you want to fix the still waiting for root device error that is showing on your Hackintosh PC after the successful installation? Then you came to the right planet. Here we have posted the
+
+### [How to Check Your CPU’s Speed in Mac OS X](http://extracatchy.net/check-your-cpus-speed-macos/)
+Do you want to check your CPUs speed and Want to know how much fastest your CPU and how fast your macOS is? Then you landed on the right planet. Here we have posted the
+
+### [Custom Registration or Sign Up Form in WordPress Without Using A Plugin](http://extracatchy.net/create-custom-registration-form-wordpress/)
+Do you want to create a custom registration or sign up form in WordPress without using a single plugin? Then this is the fantastic place for you. Where we have posted the guide and some
+
+### [Everything You Need to Know About OS X Recovery – macOS](http://extracatchy.net/macos-x-recovery-mode/)
+Do you want to use macOS X recovery feature or want to know what is OS X Recovery function is? What it can do and How it is going to help me? Then your ship
+
+### [How to Fix Waiting for DSMOS or DSMOS Has Arrived – Hackintosh](http://extracatchy.net/fix-waiting-for-dsmos-or-dsmos-has-arrived/)
+Are you facing the error of waiting for DSMOS or DSMOS has arrived on your Hackintosh PC that leads to not run macOS X? Then your plane is landed at the right place. What is…
+
+### [How to Chose The Right Hardware for Building Hackintosh PC](http://extracatchy.net/the-right-hardware-for-hackintosh/)
+Do you want to build a Hackintosh PC and wanted running latest macOS smoothly and error free? But don’t know which components to choose that will make your Hackintosh perform super fast and efficiently? Then…
+
+### [Adding Facebook Comment in Genesis Theme Without Plugin](http://extracatchy.net/add-facebook-comments-in-wordpress/)
+Do you want to increase the social sharing and comments of Posts? Then adding the facebook comment have great advantages because most of the people are already logged into their Facebook account through mobile or
+
+### [How To Add a Read More Link to Copied Text in WordPress](http://extracatchy.net/add-a-read-more-link-to-copied-text-wordpress/)
+Do you want to add a read more link to your content whenever someone copy text from your website or blog? Then you came at the right place. Here we’ve posted the guide of copied
+
+### [Using Github as a Syntax Highlighter for Your Blog or Website](http://extracatchy.net/embed-github-code-in-blog/)
+Do you want to embed Github’s Code on your Blog or Website and want to load your code snippets much faster with a clean infrastructure of Github? Then you came at the right place. What
+
+### [WordPress: How to Disable Sidebar Widget on Specific Post or Page](http://extracatchy.net/disable-sidebar-widget-on-specific-post-page/)
+Do you want to Disable Sidebar Widget on specific post or pages with just simple code or plugin? Then you came at the right place. In WordPree CMS system Widgets are essentials and we usually
+
+### [How to Add the After Post Widget to your Genesis Child Theme](http://extracatchy.net/add-after-post-widget-to-genesis-theme/)
+Do you want to add the after post widget to your Genesis Child Theme with just simple and easy code snippets? Then you came at the right place. Here we have posted the easy and…
+
+### [How to Sync Time Between Windows and Mac OS X – Hackintosh](http://extracatchy.net/sync-time-windows-mac-os-x-hackintosh/)
+Do you have an issue of sync time between Windows and Mac OS X after dualbooting or multibooting Windows and Hackintosh? Then you came at the right place. When we boot 2 operating system such…
+
+### [How to Remove URL / Website Field from WordPress Comment Form?](http://extracatchy.net/remove-website-field-from-wordpress-comments/)
+Do you want to remove the URL field from your WordPress comment form? And wanted to prevent automated bots from posting spam links on your website? Then you came at the right place. There are
+
+### [How To Customize Or Remove Genesis Footer Credit Links](http://extracatchy.net/customize-genesis-site-footer/)
+When we install the Genesis Theme you will see that the footer copyright information are default set and there is no option inside on Genesis Theme, But we have the solution for you. Just follow
+
+### [Top Lenovo a7000 Custom ROMs – Complete List of Android 7,6 & 5 ROMs](http://extracatchy.net/lenovo-a7000-custom-roms/)
+Do you guys want the best custom ROMs for your Lenovo A7000 smartphone then you land at the right place? Here we have gathered tons of amazing top Custom ROMs for Lenovo A7000 that wil
+
+### [Lineage OS 14.1 for Lenovo A7000 – Android Nougat ROM](http://extracatchy.net/lineage-os-14-rom-lenovo-a7000/)
+Do you guys want the Lineage OS 14.1 (Android Nougat) for your amazing and stable device Lenovo A7000 with the cool latest features? Then you came at the right place. Here we have posted the
+
+### [Latest Lineage OS 13 ROM for Lenovo A7000 – Best ROM](http://extracatchy.net/lineage-os-13-rom-lenovo-a7000/)
+Do you guys want the Lineage OS for your amazing device Lenovo A7000 with the cool latest features? Then you came at the right place. Here we have posted the latest Lineage OS (Cyanogenmod renamed)
+
+### [WordPress vs Blogger – Which one is Better? – Pros and Cons](http://extracatchy.net/wordpress-vs-blogger-one-better-pros-cons/)
+Do you want to start blogging and want to choose the best platforms for success in blogging world but confuse which one is better between Blogger (Blogspot) and WordPress. That’s why we have posted this
+
+### []
