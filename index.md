@@ -149,4 +149,64 @@ Do you guys want the Lineage OS for your amazing device Lenovo A7000 with the co
 ### [WordPress vs Blogger – Which one is Better? – Pros and Cons](http://extracatchy.net/wordpress-vs-blogger-one-better-pros-cons/)
 Do you want to start blogging and want to choose the best platforms for success in blogging world but confuse which one is better between Blogger (Blogspot) and WordPress. That’s why we have posted this
 
-### []
+### [3 Lessons: Two Minute Best Management Course](http://extracatchy.net/two-minute-management-course/)
+Hey guys do you want to learn management course within 2 minutes then  you came at the right place. Here we have posted three important management course that are worth of thousand dollars. Here it
+
+### [Send Empty WhatsApp Messages Without Third-Party App](http://extracatchy.net/send-empty-whatsapp-message/)
+Do you guys want to send the blank WhatsApp to any of your friends without using any third party’s app? Then you came at the right place. Here We have posted the guide of  sending…
+
+### [Update Lenovo A7000 Nougat 7.1 Unofficial ROM – AOSP N](http://extracatchy.net/lenovo-a7000-nougat-custom-roms/)
+Do you guys want to update your Lenovo A7000’s android system to the latest Android Nougat 7.1.1 then you came the right place? Here we have posted the Nougat 7.1 Unofficial ROM that will let
+
+### [What are the Advantages and Disadvantages of WhatsApp?](http://extracatchy.net/advantages-and-disadvantages-of-whatsapp/)
+Whatsapp is one of the best and most popular apps all over a world. The one who has a smartphone will definitely have WhatsApp installed. This app got famous because of its simplicity and user-friendly…
+
+### [Mobile Applications: The Most Innovative Android Apps](http://extracatchy.net/most-innovative-android-apps/)
+Do you want the most innovative and creative Apps for your smartphone then you land at the right place? Here we have posted the list of the cool and innovative Apps that you guys going
+
+### [How to add Author Box With Social Links in Genesis Theme](http://extracatchy.net/author-box-genesis/)
+Do you guys want to add Author Box in your Genesis blog or clients website with the social icons, URLs of social links and links to all the posts of that Author? Then you land
+
+### [How To Include Javascript and CSS Stylesheets in WordPress](http://extracatchy.net/include-javascript-and-css-stylesheets-in-wordpress/)
+Do you want to include your Javascript and CSS stylesheets file into your WordPress Theme or into your Plugin easily and error free? then you are at the right place. Here we have posted the
+
+### [Most Peoples Are Not Liking New WhatsApp Update, Are you too?](http://extracatchy.net/why-whatsapp-status-update-not-good/)
+Do you know that the lots of people are disappointed about the new WhatsApp update. Because of some changes that the WhatsApp team made. And today We are going to show you some of the
+
+### [Tools to Measure Your Website Speed and Load Times](http://extracatchy.net/tools-to-mesure-website-speed-load-times/)
+Is your WordPress blog performing at it’s best? How quickly does the page load? Is it sluggish? Is it requesting lots of files? YourYour website’s speed performance is one of the key factors in ensuring
+
+### [Things You Can Do Every Day to Get Smarter And Productive](http://extracatchy.net/how-to-be-smarter-productive-in-life/)
+Do you want the list all the things that you should do in order to make yourself smarter and more productive? You came at the right place. Here we have to make a list of
+
+### [How to Create Fixed Menu When Scrolling Page with CSS and Jquery](http://extracatchy.net/create-fixed-menu-when-scrolling/)
+Do you want to fixed your navigation (Menu Bar) at the top of your screen when scrolling page and wanted to do this thing with less and simple CSS and Javascript? Then you came at
+
+### [How to Bypass State Bank of India’s Net Banking OTP](http://extracatchy.net/bypassed-state-bank-of-india-otp/)
+Yes, you read the right title. You can be bypassed State Bank of India’s transaction OTP by just doing simple steps. Here we are going to show you how one of the guys Neeraj bypassed
+
+### [2 Ways to Hide WordPress Theme & Plugins Update Available Notification](http://extracatchy.net/hide-wordpress-theme-plugins-update-notification/)
+Are you a web designer or developer and you want to hide the Update Available Notification of your’s WordPress website or client’s website then you are at right place. Here we have posted the 2
+
+### [The Most Popular Keyboard Shortcuts for WordPress Users](http://extracatchy.net/keyboard-shortcuts-for-wordpress-users/)
+Are you want to improve your WordPress Productivity skill and want to do all the WordPress work speedily then you are at the right place. Here we have posted WordPress Keyboard Shortcuts that will make
+
+### [Most Common Applications in Windows for Daily Activity & Productivity](http://extracatchy.net/common-applications-in-windows/)
+Do you guys want to know the most common applications that are available in Windows 10 and want to use these applications for your productivity or your daily little and big things then you came
+
+### [What is a Hackintosh Computer – Is it legal to make a Hackintosh?](http://extracatchy.net/what-is-a-hackintosh/)
+Are you guys Wondering what is a Hackintosh and what’s are the benefits of using it? What advantages and disadvantages are and how much it costs. Does it is faster than iMac?. for these questions
+
+### [Create a Bootable USB Drive of macOS Sierra with UniBeast](http://extracatchy.net/create-bootable-usb-drive-macos-sierra-unibeast/)
+Do you want to create a bootable USB installer for macOS Sierra using UniBeast tool, Then you are at the right place? Here we have posted the easy to understand guide with the screenshot of
+
+### [Direct Download macOS Sierra, El Capitan, Yosemite, Mavericks, Mountain Lion, Lion](http://extracatchy.net/direct-download-macos/)
+Do you guys want to download the latest and old macOS directly then you came at the best place?. Are you serious? Yes, I am. You can directly download macOS without going to Apple App…
+
+### [Create a WordPress Admin User via PHPMyAdmin, MySQL or Theme’s Functions](http://extracatchy.net/create-wordpress-admin-user-via-phpmyadmin-mysql-theme-functions/)
+1 month ago I need to makes some changes on my client websites and they delete my username and their account also was not have access of administrator. On that time I have to find
+
+### [iPhone Secret Codes – What Are Some iPhone Secret Codes And Hacks?](http://extracatchy.net/iphone-secret-codes/)
+Do you guys want the Iphone Hidden Secret Codes that will make your life easier and smarter then you are at the right place? Here we have posted all of the secret code lists that
+
+
