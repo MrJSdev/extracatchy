@@ -209,4 +209,34 @@ Do you guys want to download the latest and old macOS directly then you came at 
 ### [iPhone Secret Codes – What Are Some iPhone Secret Codes And Hacks?](http://extracatchy.net/iphone-secret-codes/)
 Do you guys want the Iphone Hidden Secret Codes that will make your life easier and smarter then you are at the right place? Here we have posted all of the secret code lists that
 
+### [Android Secret Codes – Access Android Device Hidden Info](http://extracatchy.net/android-secret-codes/)
+Do you want to know the Android Devices Hidden Secret Codes? You came at right place. These USSD protocols allow you to access hidden features you didn’t know about right from your smartphone’s dialer. These
 
+### [How to Back Up & Restore Your Mac with Time Machine](http://extracatchy.net/back-up-restore-mac-with-time-machine/)
+Do you want to backup all of your important data and apps of your Mac OS X with Time Machine then you came at the right place? Time Machine is Mac’s built-in backup software.This feature…
+
+### [Actual use of “Owner Info” Button in Your Android SmartPhone.](http://extracatchy.net/actual-use-owner-info-button-android-smartphone/)
+Do you know how efficiently you can use the Owner Info of your Android Smart Phone? This is called the actual use of “Owner Info” button in your smartphone. Generally, we people write our name
+
+### [How to Regenerate Thumbnails or New Image Sizes in WordPress](http://extracatchy.net/regenerate-thumbnails-new-image-sizes-wordpress/)
+Do you guys changed the theme of your WordPress or Have you ever changed WordPress themes and noticed that the feature images size is not matching the theme feature image size. Basically, the image size
+
+### [Social Share Count – How To Count Total Social Media Shares of An Article?](http://extracatchy.net/count-total-social-media-shares-of-an-article/)
+Do you want to get social share count of your website or your particular posts? We are here to help you to get the total social media shares of an article. We may know that
+
+### [Best Sites To Find Free Stock Photos for Your Blog or Client’s Website.](http://extracatchy.net/stock-photo-websites/)
+If you’re looking to find perfect stock photos for your blog post or for your client website, you’ve come to the right place. I have collected a list of best websites that have free images that you
+
+### [Important Life Lessons That People Most Often Learn too Late in Life](http://extracatchy.net/important-life-lessons/)
+Hey guys, Do you want to learn the lessons that most of the peoples learn too late in their life? then you are at right place. We have collected 45 important and inspirational life lessons
+
+### [Switching from Windows to Mac – Why Mac OS X Awesome?](http://extracatchy.net/switching-from-windows-to-mac/)
+Are you confused about the choosing operating system between Mac OS X and Windows, which one is best and highly productive? Or you are using Windows as your primary operating system and wanted to move
+
+### [How to Link Widget Titles in WordPress without using a Plugin](http://extracatchy.net/link-to-widget-title-wordpress/)
+Do you want to give the link to your WordPress widget title whatever link you want to give? Then you are at right place. By default, WordPress does not accept hyperlinks in the widget title. Even
+
+### [Google Advanced Search Tips to Search Google Like an Expert](http://extracatchy.net/google-advanced-search-tips/)
+You guys 90-95% probably use the Internet for finding some tips, tricks, advice, review, products etc. on Google Search.  Most of the time you got what you need to know on google search, but sometimes
+
+### []
