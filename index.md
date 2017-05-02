@@ -239,4 +239,123 @@ Do you want to give the link to your WordPress widget title whatever link you wa
 ### [Google Advanced Search Tips to Search Google Like an Expert](http://extracatchy.net/google-advanced-search-tips/)
 You guys 90-95% probably use the Internet for finding some tips, tricks, advice, review, products etc. on Google Search.  Most of the time you got what you need to know on google search, but sometimes
 
+### [Switch from Windows Laptop to Mac Macbook – A Beginner’s Guide](http://extracatchy.net/windows-laptop-to-macbook-guide/)
+Did you recently buy a new MacBook or you got the job to work on Macbook and don’t ever used OS X before or you was the Windows user earlier? Then you are at right…
+
+### [Mac Keyboard Shortcuts Keys – Boost Your Speed of Productivity](http://extracatchy.net/mac-os-keyboard-shortcuts/)
+Are you guys looking to Mac Os Keyboard Shortcuts Keys to boost your speed of productivity or are you just want to save your time by not going through 3-4 steps then you are at
+
+### [Train Your Brain To Focus on What is important to You right now](http://extracatchy.net/train-your-brain-to-focus-on-what-is-important-to-you-right-now/)
+Do you guys want to focus on your exam or work or may be to your passion? Whatever it is you can focus on those things by just applying few steps that I am going
+
+### [How to Root OnePlus 3T, Install TWRP Recovery and Unlock Bootloader](http://extracatchy.net/root-oneplus-3t-install-twrp-recovery-unlock-bootloader/)
+In November  OnePlus 3T launched and team TWRP recovery launched its TWRP for this mobile early. Now you guys want to root your mobile or install custom rom in your OnePlus 3T mobile then you
+
+### [Learning To Code Hard or Not ?](http://extracatchy.net/learning-code-hard-not/)(Hey friends my self Mohammad Ashif. Today i tell you about that is learning to code hard or not?? Say guys yes or no? The answer would be yes, its very hard, because many people…
+
+### [20 Interesting Facts About Computer & Internet U May Not know](http://extracatchy.net/look-look-interesting-facts-computer-internet-u-may-not-know/)
+  Hi guys i’m tell you about that you may Not know “Here is the list of interesting facts about computer & Internet that might make you surprise. Soo let’s start guys… 1. The first
+  
+  ### [9 Tech Hacks that can be Learned in 10 Minutes](http://extracatchy.net/9-tech-hacks-can-learned-10-minutes/)
+   Searching Meaning Are you tired of searching meaning of unknown words while you are reading anything in web? and you have to every time google that word on your browser. Then try this, Just
+  
+### [15 Best Life Tips for Making your Everyday Easy](http://extracatchy.net/15-best-life-tips-making-everyday-easy/)
+ Exams on an Empty Stomach Its actually better to take exams on an empty stomach because hunger makes you better able to focus. 2. Kidnapping Tips If you ever get kidnapped and they tie
+
+### [Local Motors Introduced First Self Driving Vehicle “Olli” with Integration of IBM’s Watson](http://extracatchy.net/local-motors-introduced-first-self-driving-vehicle-integration-ibms-watson/)
+Well first let me introduced about the company Local Motors is an American Motor Vehicle Manufacturing, Company which Re-Innovate Vehicles by Using their Creative Designs and Technics. It is well known for Innovating the world’s
+
+### [How to Unfriend All Friends on Facebook at Once](http://extracatchy.net/unfriend-facebook-friend-just-one-click/)
+If you have lots of friends to remove from your profile and  you tired to go every friends Facebook profile and click over and over to the Unfriends button. Then you came right place here
+
+### [How to turn any non-touchscreen laptop into touchscreen???](http://extracatchy.net/how-to-turn-any-non-touchscreen-laptop-into-touchscreen/)
+Hey non-touchscreen laptop users do you want to move your hands towards your screen when you get bored with your keyboard and mouse, so here is an exciting device which will allow you to turn
+
+### [Buyer’s Guide: 2016 Best RAM to Hackintosh Build PC](http://extracatchy.net/buyers-guide-best-ram-to-building-hackintosh-pc/)
+Do you want to buy RAM for your Hackintosh PC. As we all know RAM is the most important components of your Hackintosh PC so its very important to choose the proper RAM. Here are
+
+### [Buyer’s Guide: Building a Budget Hackintosh PC April 2016](http://extracatchy.net/buyers-guide-building-a-budget-hackintosh-pc-april-2016/)
+Do you want to build a budget Hackintosh PC and want to know which components are run OS X fast and smoothly without doing lots of troubleshooting to install MAC OS X. Here you get
+
+### [Google Introduce Self-Driving Bicycle in the Netherlands](http://extracatchy.net/google-introduce-self-driving-bicycle-netherlands/)
+As we all know, We can’t predict where are the end of Google’s New Inventions. Now Google Introducing the Self Driving Bicycle in the Netherlands. As you may know Amsterdam City in Netherlands, the world’s
+
+### [41 Must-know Keyboard Shortcut Keys for Windows 10](http://extracatchy.net/41-must-know-keyboard-shortcut-keys-for-windows-10/)
+Are you want to know Microsoft Windows 10 Shortcut Keys, Here are I posted the keyboard shortcut keys that Microsoft added in Windows 10. I posted It with the Shortcut and Its Descriptions. List of
+
+### [Adobe Illustrator CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-illustrator-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to boost your graphic designing or illustration work with Illustrator. Here I posted many of Illustrator’s keyboard shortcuts key that will help you to boost your object editing, designing, coloring, etc. and
+
+### [Adobe Photoshop CS5 CS6 CC Shortcut Keyboard Keys – Mac OS X](http://extracatchy.net/adobe-photoshop-cs5-cs6-cc-shortcut-keyboard-keys-mac-os-x/)
+Do you want to boost your graphic designing or photography work with Photoshop. Here I posted many of Photoshop’s keyboard shortcuts key that will help you to boost your project speed and save your lots
+
+### [Adobe Dreamweaver CS5 CS6 CC Shortcut Keyboard Keys – Mac OS X](http://extracatchy.net/adobe-dreamweaver-cs5-cs6-cc-shortcut-keyboard-keys-mac-os-x/)
+Do you want to work with your Adobe Dreamweaver more efficiently and speedup your project. Here I posted Dreamweaver shortcut keys that are used frequently on our web designs and applications project. List of common
+
+### [Essential Windows 8 Shortcut Keys for Beginner to Advance](http://extracatchy.net/essential-windows-8-shortcut-keys-beginner-advance/)
+Start Screen Shortcut Keys Shortcut Description Windows Key Toggle between the Start screen and the last-opened Windows Store app or the desktop. Windows Key+1,Windows Key+2, etc. Switch to the desktop and launch the “nth” application
+
+### [Imp CSS Tips: How to use CSS Selector & What is CSS Selectors](http://extracatchy.net/how-to-use-css-selector-css-selector-main-css-tips/)
+What is CSS Css is the Casecading Style Sheet which helps to give style in Html or Php or Jquery web pages. Without css the website content or box or background and so on doesn’t
+
+### [How to Change WordPress JPEG Image Quality Increase & Decrease](http://extracatchy.net/change-wordpress-image-quality/)
+Do you know that your when we upload media files( Images) in our WordPress website Its image quality decrease automatically to 10%. So It is most important thing  to know how to increase the image
+
+### [How to insert twitter feed into website or How to embed twitter feed into website ?](http://extracatchy.net/how-to-insert-twitter-feed-into-website-or-how-to-embed-twitter-feed-into-website/)
+This is the most use able tricks for web designer and web developer. Twitter feed is the post what you share on your timeline or comment. It also gives follow button which can visitor use…
+
+### [Adobe Photoshop CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-photoshop-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to boost your graphic designing or photography work with Photoshop. Here I posted many of Photoshop’s keyboard shortcuts key that will help you to boost your project speed and save your lots
+
+### [Adobe Dreamweaver CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-dreamweaver-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to work with your Adobe Dreamweaver more effeciently and speedup your project. Here I posted Dreamweaver shortcut keys that are used frequently on our web designs and applications project. List of common
+
+### [Beginner to Advanced Computer keyboard shortcuts keys](http://extracatchy.net/beginner-advanced-computer-keyboard-shortcuts-keys/)
+Do you want to know all windows commonly and advanced shortcut keys to speedup your productivity and work more efficiently. Here we are posting all of computer keyboard shortcut keys that will make your life
+
+### [WhatsApp released 5 new features for iOS users](http://extracatchy.net/whatsapp-released-5-new-features-ios-users/)
+WhatsApp has introduced its five new features for iOS devices. These features make communication even more convenient and efficient. The WhatsApp new features include: 1. Save Media Option WhatsApp has now made new button called
+
+### [Apple Released OS X El Capitan Update 10.11.4](http://extracatchy.net/os-x-el-capitan-update-10-11-4/)
+Today apple released 10.11.4 Mac OS X update. It is the fourth major update of OS X El Capitan. You can update your Mac OS X El Capitan by Mac App Store or by standalone
+
+### [How to install Remix OS in Your PC/Laptop?](http://extracatchy.net/remix-os-pclaptop/)
+Hi Everyone, Well i think that you all have gone through out that what is Remix OS Here it is my second post related to Remix OS, So are you excited to install Remix OS
+
+### [What is Remix Operating System??](http://extracatchy.net/remix-operating-system/)
+Hi Everyone, You all have heard about the remix of songs in various forms, but nowadays technology is moving forward with a speed to possible all the impossible and turning imagination into reality. So here
+
+### [Easily Get a Job at Google!!!](http://extracatchy.net/easily-get-job-google/)
+Google is in search of a creative designer for designing his homepage. Google is now offering every user who uses Google Search Engine to design his Search Engine with the help of Creative Lab. Google
+
+### [Samsung’s 15TB SSD is finally here!!](http://extracatchy.net/samsung-finally-launched-15tb-ssd/)
+World’s Highest Capacity SSD (Solid State Drive) is Finally launched by Samsung on Wednesday. Samsung the company which is well know in all electronics products has now made the world’s highest capacity solid state drive
+
+### [March 2016 – 4th Generation Processors for 2016 Hackintosh Build](http://extracatchy.net/march-2016-4th-generation-processors-for-2016-hackintosh-build/)
+Do you want to build Hackintosh PC and you are worried which processors are good for running smoothly Mac OS X without any errors. These i3, i5 and i7 4th generation processors experienced before and
+
+### [http://extracatchy.net/shareit-vs-xender-one-fastest-file-transfer-app-android-ios/](http://extracatchy.net/shareit-vs-xender-one-fastest-file-transfer-app-android-ios/)
+Want to know the fastest file transfer and reliable app for your androids and iOS phones, you might be know these two apps are SHAREit and Xender which are the 2 best file transefer available
+
+### [Feb 2016 i7 4th Generation processors list for hackintosh build](http://extracatchy.net/feb-2016-i7-4th-generation-processors-list-for-hackintosh-build/)
+When you are going to run OS X as your main operating system, which i7 processors are supported is important to know. Here we posted some of main i7 processor which are runs smoothly withou
+
+### [Feb 2016 i5 4th Generation processors list for hackintosh build](http://extracatchy.net/i5-processors-list-for-hackintosh/)
+When you are going to run OS X as your main operating system, which i5 processors are supported is important to know. Here we posted some of main i5 processor which are runs smoothly without
+
+### [How To Take Screenshot On Mac OS X](http://extracatchy.net/how-to-take-screenshot-on-mac-os-x/)
+Do you want to know how to take a screenshot easily and without using any software on Mac OS X? Here guys today I am going to share with you these 3 simplest way to
+
+### [Hackintosh Boot Flags for Clover, Unibeast, Chimera, Chameleon, Niresh](http://extracatchy.net/hackintosh-boot-flags-clover-unibeast-chimera-chameleon-niresh/)
+If you are installing hackintosh on your pc and its not booting or stuck on apple logo, or its keep restarting, etc. When you are going to install hackintosh on PC you have to know
+
+### [How to fix the group policy client service failed the logon.. Access is denied.](http://extracatchy.net/how-to-fix-the-group-policy-client-service-failed-the-logon-access-is-denied/)
+Is your windows computer got stuck on the logon screen showing “The Group Policy Client Service failed the logon. Access is denied”  and not allowing you to enter into windows here only the option is to
+
+### [6th Generation Processors for 2016 Hackintosh Build](http://extracatchy.net/6th-generation-processors-2016-hackintosh-build/)
+6th generation processor is the latest processor which is released in the year 2015. It are the latest processors which will make 2016 stunning. These CPUs are supported of all OS X, So you can use
+
+### [2016: Top 5 WordPress Theme Framework](http://extracatchy.net/2016-top-5-wordpress-theme-framework/)
+We know wordpress is  the best CMS base system are available since many years. But without better wordpress theme framework, its nothing. We want framework that satisfy our needs. Like Security, SEO Friendly, Fastest, Easy
+
 ### []
