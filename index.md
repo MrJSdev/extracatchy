@@ -358,4 +358,62 @@ Is your windows computer got stuck on the logon screen showing “The Group Poli
 ### [2016: Top 5 WordPress Theme Framework](http://extracatchy.net/2016-top-5-wordpress-theme-framework/)
 We know wordpress is  the best CMS base system are available since many years. But without better wordpress theme framework, its nothing. We want framework that satisfy our needs. Like Security, SEO Friendly, Fastest, Easy
 
-### []
+### [How to Change WordPress JPEG Image Quality Increase & Decrease](http://extracatchy.net/change-wordpress-image-quality/)
+Do you know that your when we upload media files( Images) in our WordPress website Its image quality decrease automatically to 10%. So It is most important thing  to know how to increase the image
+
+### [How to insert twitter feed into website or How to embed twitter feed into website ?](http://extracatchy.net/how-to-insert-twitter-feed-into-website-or-how-to-embed-twitter-feed-into-website/)
+This is the most use able tricks for web designer and web developer. Twitter feed is the post what you share on your timeline or comment. It also gives follow button which can visitor use
+
+### [Adobe Photoshop CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-photoshop-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to boost your graphic designing or photography work with Photoshop. Here I posted many of Photoshop’s keyboard shortcuts key that will help you to boost your project speed and save your lots
+
+### [Adobe Dreamweaver CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-dreamweaver-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to work with your Adobe Dreamweaver more effeciently and speedup your project. Here I posted Dreamweaver shortcut keys that are used frequently on our web designs and applications project. List of common…
+
+### [Beginner to Advanced Computer keyboard shortcuts keys](http://extracatchy.net/beginner-advanced-computer-keyboard-shortcuts-keys/)
+Do you want to know all windows commonly and advanced shortcut keys to speedup your productivity and work more efficiently. Here we are posting all of computer keyboard shortcut keys that will make your life
+
+### [WhatsApp released 5 new features for iOS users](http://extracatchy.net/whatsapp-released-5-new-features-ios-users/)
+WhatsApp has introduced its five new features for iOS devices. These features make communication even more convenient and efficient. The WhatsApp new features include: 1. Save Media Option WhatsApp has now made new button called
+
+### [Apple Released OS X El Capitan Update 10.11.4](http://extracatchy.net/os-x-el-capitan-update-10-11-4/)
+Today apple released 10.11.4 Mac OS X update. It is the fourth major update of OS X El Capitan. You can update your Mac OS X El Capitan by Mac App Store or by standalone
+
+### [How to install Remix OS in Your PC/Laptop?](http://extracatchy.net/remix-os-pclaptop/)
+Hi Everyone, Well i think that you all have gone through out that what is Remix OS Here it is my second post related to Remix OS, So are you excited to install Remix OS
+
+### [What is Remix Operating System??](http://extracatchy.net/remix-operating-system/)
+Hi Everyone, You all have heard about the remix of songs in various forms, but nowadays technology is moving forward with a speed to possible all the impossible and turning imagination into reality. So here
+
+### [Easily Get a Job at Google!!!](http://extracatchy.net/easily-get-job-google/)
+Google is in search of a creative designer for designing his homepage. Google is now offering every user who uses Google Search Engine to design his Search Engine with the help of Creative Lab. Google
+
+### [How to turn any non-touchscreen laptop into touchscreen???](http://extracatchy.net/how-to-turn-any-non-touchscreen-laptop-into-touchscreen/)
+Hey non-touchscreen laptop users do you want to move your hands towards your screen when you get bored with your keyboard and mouse, so here is an exciting device which will allow you to turn
+
+### [Buyer’s Guide: 2016 Best RAM to Hackintosh Build PC](http://extracatchy.net/buyers-guide-best-ram-to-building-hackintosh-pc/)
+Do you want to buy RAM for your Hackintosh PC. As we all know RAM is the most important components of your Hackintosh PC so its very important to choose the proper RAM. Here are…
+
+### [Buyer’s Guide: Building a Budget Hackintosh PC April 2016](http://extracatchy.net/buyers-guide-building-a-budget-hackintosh-pc-april-2016/http://extracatchy.net/buyers-guide-building-a-budget-hackintosh-pc-april-2016/)
+Do you want to build a budget Hackintosh PC and want to know which components are run OS X fast and smoothly without doing lots of troubleshooting to install MAC OS X. Here you ge
+
+### [Google Introduce Self-Driving Bicycle in the Netherlands](http://extracatchy.net/google-introduce-self-driving-bicycle-netherlands/)
+As we all know, We can’t predict where are the end of Google’s New Inventions. Now Google Introducing the Self Driving Bicycle in the Netherlands. As you may know Amsterdam City in Netherlands, the world’s
+
+### [41 Must-know Keyboard Shortcut Keys for Windows 10](http://extracatchy.net/41-must-know-keyboard-shortcut-keys-for-windows-10/)
+Are you want to know Microsoft Windows 10 Shortcut Keys, Here are I posted the keyboard shortcut keys that Microsoft added in Windows 10. I posted It with the Shortcut and Its Descriptions. List of
+
+### [Adobe Illustrator CS5 CS6 CC Shortcut Keyboard Keys – Windows PC](http://extracatchy.net/adobe-illustrator-cs5-cs6-cc-shortcut-keyboard-keys-windows-pc/)
+Do you want to boost your graphic designing or illustration work with Illustrator. Here I posted many of Illustrator’s keyboard shortcuts key that will help you to boost your object editing, designing, coloring, etc. and… 
+
+### [Adobe Photoshop CS5 CS6 CC Shortcut Keyboard Keys – Mac OS X](http://extracatchy.net/adobe-photoshop-cs5-cs6-cc-shortcut-keyboard-keys-mac-os-x/)
+Do you want to boost your graphic designing or photography work with Photoshop. Here I posted many of Photoshop’s keyboard shortcuts key that will help you to boost your project speed and save your lots
+
+### [Adobe Dreamweaver CS5 CS6 CC Shortcut Keyboard Keys – Mac OS X](http://extracatchy.net/adobe-dreamweaver-cs5-cs6-cc-shortcut-keyboard-keys-mac-os-x/)
+Do you want to work with your Adobe Dreamweaver more efficiently and speedup your project. Here I posted Dreamweaver shortcut keys that are used frequently on our web designs and applications project. List of common…
+
+### [Essential Windows 8 Shortcut Keys for Beginner to Advance](http://extracatchy.net/essential-windows-8-shortcut-keys-beginner-advance/)
+Start Screen Shortcut Keys Shortcut Description Windows Key Toggle between the Start screen and the last-opened Windows Store app or the desktop. Windows Key+1,Windows Key+2, etc. Switch to the desktop and launch the “nth” application
+
+### [Imp CSS Tips: How to use CSS Selector & What is CSS Selectors](http://extracatchy.net/how-to-use-css-selector-css-selector-main-css-tips/)
+What is CSS Css is the Casecading Style Sheet which helps to give style in Html or Php or Jquery web pages. Without css the website content or box or background and so on doesn’t
