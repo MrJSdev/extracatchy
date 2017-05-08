@@ -444,3 +444,92 @@ You have problem with  ìNTLDR is missing, Press any key to restart during boot 
 
 ### [Jan 2016 i3 processors list for hackintosh build](http://extracatchy.net/i3-processors-list-for-hackintosh-build/)
 Are you want the cheapest and reliable processor for your Hackintosh PC, then you came right place. Below is the list of best i3 processor for high-performance Hackintosh build. List of Jan 2016 Top i3
+
+### [Access Your Computer Desktop From any Android Device](http://extracatchy.net/access-pc-from-android/)
+Do you want to operate your PC with your smart phone and get the control access whole operating system  and also access of keyboard and mouse? Then you are at the right place. How we
+
+### [Get into hands-free world of computing with Leap Motion](http://extracatchy.net/498-2/)
+We are living in the new world of technology so its time to move ahead with the pace of new technology.. So here is an Exciting Device for Creative Designer who loves doing creativity from
+
+### [How to create gmail account ?](http://extracatchy.net/create-gmail-account/)
+Gmail provide fast mailing services as compared other mail providers website. One gmail account used in many platforms like Youtube, Play Store, Google Plus, Google Search, Google drive, Google blogs, WebMaster, Analytics, etc.Today i am
+
+### [China is beeting on its youngest population to learn computer code at an early age.](http://extracatchy.net/491-2/)
+In China the latest craze of parents on their children’s is to teach Coding at an earlier age from 6-16. Chinese Parents are thinking that Coding will be very useful for their children in the
+
+### [The Microsoft Developer Built a Smart Voice Controlled Mirror in Just 20 Hours.](http://extracatchy.net/the-microsoft-developer-built-a-smart-voice-controlled-mirror-in-just-20-hours/)
+Today the world is moving towards Imagination, what we imagine today it is turning into reality. It is a great news for the world that the virtual mirrors which we see in the Movies is
+
+### [Top 5 fastest browser’s in the world.](http://extracatchy.net/top-5-fastest-browsers-in-the-world/)
+Best Web Browsers   1     Google Chrome Safe, Secure, Fast, Reliable, in fact the best browser in the world most used browser in the world. It’s very impressive and deserves its top position its very…
+
+### [How to recover Gmail account password ?](http://extracatchy.net/how-to-recover-gmail-account-password/)
+Hey guys do you want to know how to recover your Gmail password. If you forgot your password or lost the access of your Gmail account, you can regain the access by recovering your password
+
+### [Turn Your Smartphone into Mouse To Control your PC](http://extracatchy.net/turn-your-smartphone-into-mouse-to-control-your-pc/)
+Hey friend’s, i am thinking suppose you are watching videos, music on your PC in bed or, playing loud music at a party in your house? These are few situations where a smartphone turned remote
+
+### [Apple Copied HTC’s Smartphone Design](http://extracatchy.net/apple-copied-htcs-smartphone-design/)
+It has been happening from olden times the tale of copying Designs in Smartphone Industry. Here the latest controversy is revealed that Apple iphone 6 has copied the design of HTC one A9. Read Below
+
+### [Top 5 Fastest WordPress Themes](http://extracatchy.net/top-5-fastest-wordpress-themes/)
+Do you want fastest theme for your blog or your business websites. Here I am going to give you the fastest themes name and speed data. These themes are fastest as well as SEO friendly
+
+### [Top 10 best free business wordpress themes](http://extracatchy.net/10-best-free-business-wordpress-themes/)
+hey guys do you want  to know best wordpress business theme which is free of cost. Here i am going to give you best of best clean, professional wordpress business theme list. These themes are…
+
+### [Email Hack – How to Send Big Files Through Email? WeTransfer](http://extracatchy.net/wetransfer-how-to-send-big-files-through-email/)
+Want to know how to send big files over email, because gmail, hotmail, yahoo mail and others mail service provider doesn’t send above 25 MB files. Here I am going to tell you how to…
+
+### [Simple and clean contact form html with bootstrap](http://extracatchy.net/simple-and-clean-contact-form-html-with-bootstrap/)
+Hey Guys do you want the simple and clean contact form with Bootstrap styling CSS? Then you came at the right place. What we will cover in this guide. 1: We will teach you how…
+
+### [Top 10 – 2015 wordpress latest themes free download](http://extracatchy.net/top-10-2015-wordpress-latest-themes-free-download/)
+Hey guys do you want to know and download free latest wordpress themes. these free themes can used for blogging, pesonal business and business. Here are the list. 1. Heidi Heidi is a simple theme
+
+### [Free Top 10 most popular wordpress themes.](http://extracatchy.net/free-top-10-most-popular-wordpress-themes/)
+Hey guys do you want wordpress most popular themes then you came at right place. Here is the list of most popular and downloaded wordpress themes. 1. Twenty Fifteen. The Twenty Fifteen theme is designed
+
+### [Tips to free store your file, photos, videos, documents & more.](http://extracatchy.net/tips-to-free-store-your-file-photos-videos-documents-more/)
+Hey guys today i am teaching you how to use your Google Drive. You can store and access your files anywhere with Google Drive – on the web, on your hard drive, or on the
+
+### [Best 2015 RAM for Gaming, Designing, Video Editing for Computers 4 GB – 8 GB](http://extracatchy.net/best-2015-ram-for-gaming-designing-video-editing-for-computers-4-gb-8-gb/)
+Do you want to know the best ram for gaming pc or do you want to know best ram brand for gaming. Here I am going to reveal the name of best RAM manufacturer  for gaming
+
+### [Top 5 Games 2015 | Top games free download](http://extracatchy.net/top-5-free-games-2015/)
+Want to know top 2015 games which is free to download and its features. Let me tell you without wasting much time. The following are the top downloaded games for your smart phones Android, Windows
+
+### [Microsoft Launched its First Surface Book to Compete with Apple’s MacBook Pro..](http://extracatchy.net/microsoft-launched-its-first-surface-book-to-compete-with-apples-macbook-pro/)
+Microsoft in its windows 10 device launch event,Launched its first ever laptop Surface Book to compete with Apple’s MacBook Pro. Microsoft Surface is two times faster than Apple’s MacBook Pro. Microsoft’s first ever laptop gained
+
+### [How to Install a WordPress Plugin – Step by Step for Beginners](How to Install a WordPress Plugin – Step by Step for Beginners)
+Want to install WordPress plugin that you have downloaded before or want to install new plugin from WordPress plugin directory. Then you came at the right place. Here we have posted the 2 methods to
+
+### [Make rocketdock look like mac.](http://extracatchy.net/how-to-install-rocketdock/)
+Rocketdock is an application launcher developed by Poly Vector. Windows that provides a dock similar to that of the Mac OS X Aqua GUI. With each item completely customizable there is no end to what…
+
+### [How to Install WordPress on Windows Using WAMP Server](http://extracatchy.net/install-wordpress-locally-wamp-windows/)
+Want to know how to install WordPress locally on Windows easy and fastest way with step by step guide then you came at the right place. Here we have posted the amazing tutorials of installing
+
+### [How to hack facebook password without any software?](http://extracatchy.net/how-to-hack-facebook-password-without-any-software/)
+Hey guys today i am tell you about how to hack facebook password without any software. There is way to hack password by Inspect Element. “Lot of people ask these days that there is a
+
+### [Creating a new MySQL Database using phpMyAdmin in WAMP or XAMPP](http://extracatchy.net/creating-new-mysql-database-using-phpmyadmin/)
+Want to know how to easily create a database in phpmyadmin on wamp server of y, We are going to learn simple method of phpmyadmin create database. What you will learn in this guide. We
+
+### [How To Download & Install Wamp Server On Windows 10-8-7](http://extracatchy.net/download-install-wamp-server-windows/)
+Want to learn how to install wamp server for installing wordpress or joomla and run PHP on wamp server.  Here are the guide to install Wamp Server on your Windows PC. Download & Install Wamp Server
+
+### [Intel 6th Generation Core Processors Skylake Falling this Year!!!](http://extracatchy.net/intel-6th-generation-skylake-core-processors-falling-this-year/)
+As today’s technology is growing very fast and quick so here I am talking about the new processor technology for Desktop Computers. As most of us know about the Company Intel the world’s largest processor…
+
+### [Easy way to install wordpress locally on mamp in your mac](http://extracatchy.net/easy-way-to-install-wordpress-locally-on-mamp-in-your-mac/)
+Want to know how to install WordPress locally or do you want to know how to install WordPress on MAMP. lets start to learn how will wordpress local install. Install WordPress on MAMP. Step 1:
+
+### [Gionee are going to launch Elife E8 in India exp October 12](http://extracatchy.net/gionee-are-going-to-launch-elife-e8-in-india-exp-october-12/)
+Gione Elife E8 Gionee is going to launch Elife E8  in India. The first time Gionee will be selling of its officially device through on online retailer in India. This phone is priced at 34,
+
+### [Honor 7 | Best mobile under 23000 Launching Huawei phones Honor 7](http://extracatchy.net/honor-7-best-mobile-under-23000-launching-huawei-phones-honor-7/)
+The Huawei phones company are launched Honor 7, It is the major upgrade after Honor 6. It has Super-fast fingerprint identification that allow you to unlock your phone in a half second. lets look to
+
+### []
