@@ -690,5 +690,63 @@ The Huawei phones company are launched Honor 7, It is the major upgrade after Ho
 
 ###  [Cozy Auto Clutch Logo](http://extracatchy.net/portfolio/cozy-auto-clutch-logo/)
 
-### []
+### [How to Remove the Header Widget Area in Genesis Theme](http://extracatchy.net/remove-header-widget-area-genesis/)
+Generally, Genesis Framework comes with the header widget which is located at the right side of a logo that can use to display ads, some notice, or etc. That is useful header widget but sometimes
+
+### [How to Change or Modify the Header URL in Genesis Theme](http://extracatchy.net/modify-the-header-url-genesis/)
+Do you want to change the Header URL of your website title link or the logo link in Genesis Theme? Then you came at the right place. By default, WordPress set the URL of WordPress
+
+### [How to Display a Custom Gravatar for Your Comments in WordPress](http://extracatchy.net/display-custom-gravatar-for-comments/)
+Do you want to display a custom Gravatar on your website’s comment form that image which you like to show, in simple term do you want to change the WordPress user profile picture? Then you
+
+### [How to Remove Entry Meta From Entry Header in Genesis](http://extracatchy.net/remove-entry-meta-from-entry-header/)
+Do you want to remove the Entry Meta from the Entry Header such as author name, comments, post date etc? Then this is the ultimate guide for you. Here we have posted the single line
+
+### [How to Customize the Entry Header in Genesis Theme](http://extracatchy.net/customize-the-entry-header-genesis/)
+Do you want to customize the Entry Header data such as post date, author name with link, post comments link with the number of comments, etc? Then you land on the right planet. Here we
+
+### [How to Enable HTML5 Markup Structure in Genesis Theme](http://extracatchy.net/enable-html5-markup-genesis/)
+Do you want to enable the HTML5 markup on your website if you are using Genesis Theme? Then you came to the right planet. Here we have posted the single line of code that will
+
+### [How to Remove Entry Meta of Entry Footer in Genesis Theme](http://extracatchy.net/remove-entry-meta-of-entry-footer/)
+Do you want to remove the entry meta from the entry footer hook such as categories and tags that show on the single post page at the footer section? Then you came at the righ
+
+### [How to Modify the Submit Button Text in Genesis Theme](http://extracatchy.net/modify-submit-button-text-genesis/)
+Do you want to change the submit button’s text to whatever you want to without using any plugin? then you came to the right place. Here we have written the simple code of PHP and
+
+[How to Add A Comment Policy Box in Genesis Theme](http://extracatchy.net/add-a-comment-policy-box-genesis/)
+Do you want to add the comment policy in your post comment section so you will get the relevant comment to your website? Then you came at the right place. Here we have written the
+
+### [How to Modify the Breadcrumbs Home Link in Genesis Theme](http://extracatchy.net/modify-the-breadcrumbs-home/)
+Are you want to give the custom links to your Breadcrumb’s home page with only by using simple few lines of code? Then this is the right place for you. Here we have posted the
+
+### [How to Change the Breadcrumbs Position in Genesis Theme](http://extracatchy.net/reposition-the-breadcrumbs/)
+Do you want to re-position the breadcrumbs in your Genesis Theme by using the only simple code? Then you came at the right place. We have posted the few lines of PHP code that is
+
+### [How to Modify the Breadcrumbs Display in Genesis Theme](http://extracatchy.net/modify-the-breadcrumbs-display/)
+Do you want to modify the Breadcrumbs that comes with your Genesis Theme? What we mean to modify Breadcrumbs, In simple terms do you want to change the text, div, or separators of Breadcrumbs? Then
+
+### [How to Change Post Excerpt Length in WordPress – Genesis Theme](http://extracatchy.net/change-post-excerpt-length-in-wordpress/)
+Do you want to change the post excerpt length of your WordPress blog post in your Genesis Theme with just a few lines of code and without using any plugin? Then you came at the
+
+### [Best Business Books of All Time to Become Billionaire – 2017](http://extracatchy.net/best-business-books/)
+Do you ever tried to thinking and searching how to grow the business or how to be a billionaire, If you came to here then it is obvious that you want to become the billionaire
+
+### [Customize the Read More Link in Genesis Theme – WordPress](http://extracatchy.net/customize-read-more-link-genesis-theme/)
+Do you want to modify the read more link to your Genesis blog post excerpt with just using few lines of code? Then you came at the right place. Read Also: How To Add a
+
+### [PHP: Split String Into Array Like Explode with No Delimiter](http://extracatchy.net/split-string-into-array-like-explode-with-no-delimiter/)
+Do you want to split some string characters into an array just like explode does? for eg, you have the string like this “hello” and you want to separate each character into an array then
+
+### [How to add Next and Previous post Button in Genesis Theme?](http://extracatchy.net/add-next-previous-post-button-genesis-theme/)
+Do you want to add the navigation button such as Next post and Previous post into your Genesis theme by using the just simple line of code snippet? Then you came at the right place
+
+### [How to Add a Revolution Slider without using a Shortcode or Widget](http://extracatchy.net/add-a-revolution-slider-without-using-a-shortcode-or-widget/)
+Do you guys want to add revolution slider in your WordPress theme’s page from the backend without using shortcode or widget? Then you land at the right guide planet. Here we have posted the few
+
+### [How to Split a Comma Delimited String into an Array in PHP?](http://extracatchy.net/split-comma-delimited-string-into-array-php/)
+Do you want to split the string of text into the array after every comma in PHP? Then you came at the right place. Here we have posted the simple guide and code snippets that…
+
+### [How to Enter & Edit Boot Flags in Clover – Hackintosh Guide](http://extracatchy.net/how-to-enter-edit-boot-flags-in-clover/)
+Do you want to enter boot flags or Edit boot Flags while booting Clover for testing purpose. Then you land on the right planet. Here we have posted the guide that will tell you about
 
